@@ -16,3 +16,8 @@ desc "Build and install gem"
 task :install => :gem do
     system("gem install scoobydoo*.gem")
 end
+
+desc "Push gem to rubygems.org"
+task :push => [:clean, :gem] do
+    system("gem push scoobydoo*.gem")
+end
