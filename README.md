@@ -19,5 +19,5 @@ sh = ScoobyDoo.where_are_you("sh")
 
 ## TODO
 
-- [ ] Better README
-- [ ] RDoc
+- Better README
+- RDoc
