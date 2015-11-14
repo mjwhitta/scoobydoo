@@ -2,6 +2,12 @@
 
 A `which` or `command -v` like tool for Ruby.
 
+## How to install
+
+```bash
+$ gem install scoobydoo
+```
+
 ## Usage
 
 ```ruby
