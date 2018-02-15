@@ -4,7 +4,7 @@ A `which` or `command -v` like tool for Ruby.
 
 ## How to install
 
-```bash
+```
 $ gem install scoobydoo
 ```
 
@@ -18,7 +18,6 @@ sh = ScoobyDoo.where_are_you("sh")
 
 ## Links
 
-- [Homepage](https://mjwhitta.github.io/scoobydoo)
 - [Source](https://gitlab.com/mjwhitta/scoobydoo)
 - [Mirror](https://github.com/mjwhitta/scoobydoo)
 - [RubyGems](https://rubygems.org/gems/scoobydoo)
