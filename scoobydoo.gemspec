@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name = "scoobydoo"
-    s.version = "0.1.4"
+    s.version = "0.1.5"
     s.date = Time.new.strftime("%Y-%m-%d")
     s.summary = "Cross-platform which for ruby"
     s.description = "Cross-platform which for ruby."
@@ -9,5 +9,5 @@ Gem::Specification.new do |s|
     s.files = Dir["lib/**/*.rb"]
     s.homepage = "https://mjwhitta.github.io/scoobydoo"
     s.license = "GPL-3.0"
-    s.add_development_dependency("rake", "~> 10.5", ">= 10.5.0")
+    s.add_development_dependency("rake", "~> 12.3", ">= 12.3.0")
 end
