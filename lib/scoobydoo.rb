@@ -4,6 +4,7 @@ class ScoobyDoo
     @@cache = Hash.new
 
     def self.where_are_you(cmd)
+        return nil if (cmd.nil? || cmd.empty?)
         return @@cache[cmd] if (@@cache.has_key?(cmd))
 
         if (cmd.include?(File::SEPARATOR))

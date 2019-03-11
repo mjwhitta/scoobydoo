@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name = "scoobydoo"
-    s.version = "0.1.6"
+    s.version = "0.1.7"
     s.date = Time.new.strftime("%Y-%m-%d")
     s.summary = "Cross-platform which for ruby"
     s.description = "Cross-platform which for ruby."
