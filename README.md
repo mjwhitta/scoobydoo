@@ -1,5 +1,7 @@
 # ScoobyDoo
 
+<a href="https://www.buymeacoffee.com/mjwhitta">🍪 Buy me a cookie</a>
+
 A `which` or `command -v` like tool for Ruby.
 
 ## How to install
