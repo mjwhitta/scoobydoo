@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
     s.description = "Cross-platform which for ruby."
     s.email = "mj@whitta.dev"
     s.files = Dir["lib/**/*.rb"]
-    s.homepage = "https://gitlab.com/mjwhitta/scoobydoo"
+    s.homepage = "https://github.com/mjwhitta/scoobydoo"
     s.license = "GPL-3.0"
     s.metadata = {"source_code_uri" => s.homepage}
     s.name = "scoobydoo"
